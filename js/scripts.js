@@ -24,7 +24,7 @@ window.onload = function() {
   var messages = [
     'Hi 👋',
     'I\'m Kinan 🤓',
-    'Editorial Platforms Analyst at Economist 📰',
+    'Editorial Platforms Analyst at The Economist 📰',
     '& Front End Web developer in training 👨🏼‍💻',
     'Get in touch:',
     '<a target="_blank" href="https://Kinansha.github.io/KinanSha">Kinansha.github.io/KinanSha/</a><br><a target="_blank" href="https://www.linkedin.com/in/kinanalshaghouri/">linkedin.com/in/kinanalshaghouri/</a><br><a target="_blank" href="https://github.com/kinansha">github.com/kinansha</a>',
